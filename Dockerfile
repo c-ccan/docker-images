@@ -1,1 +1,1 @@
-From kfserving/models-web-app:v0.6.0
+From gcr.io/kfserving/kfserving-controller:v0.6.0
